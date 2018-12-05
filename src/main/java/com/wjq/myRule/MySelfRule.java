@@ -10,7 +10,11 @@ public class MySelfRule {
 
 	@Bean
 	public IRule myRule() {
-
+		System.out.println("WJQBranchMain.main()");
+		System.out.println("WJQBranchMain.main()");
+		System.out.println("WJQBranchMain.main()");
+		System.out.println("WJQBranchMain.main()");
+		System.out.println("WJQBranchMain.main()");
 		System.out.println("我 的地胖我做主，加油");
 		System.out.println("我想看看合并工具如何工作的");
 		System.out.println("我 的什么情况啊主，加油吧，老铁");
