@@ -10,7 +10,7 @@ public class MySelfRule {
 
 	@Bean
 	public IRule myRule() {
-		
+		System.out.println("我 的地胖我做主，加油");
 		//return new RandomRule();//ribbon默认是轮询，这里自定义为随机
 		return new RandomRule_WJQ();
 	}
